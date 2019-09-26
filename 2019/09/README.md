@@ -12,7 +12,7 @@
 
 ## Lightning Talks
 
-- **Exercism: Bob** ([Exercism Page][])
+- **[Exercism: Bob][]** ([Exercism Page][])
   - Paul Fioravanti :: [@paulfioravanti][] ([#1][])
 
 ### Slide Deck
@@ -23,7 +23,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [Elm's Types Made Simple]: #
 [@damncabbage]: https://twitter.com/damncabbage
 [#2]: https://github.com/elmsydney/elmsydney/issues/2
-[Exercism: Bob]: #
+[Exercism: Bob]: https://speakerdeck.com/paulfioravanti/exercism-bob-elm
 [Exercism Page]: https://exercism.io/tracks/elm/exercises/bob
 [@paulfioravanti]: https://twitter.com/paulfioravanti
 [#1]: https://github.com/elmsydney/elmsydney/issues/1
