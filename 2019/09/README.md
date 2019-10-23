@@ -1,4 +1,4 @@
-# Elm Sydney Tuesday, 26 September 2019
+# Elm Sydney Thursday, 26 September 2019
 
 - From 6:00 (for 6:30pm start) @ [DiUS][]
 - [Level 2, 50 York St, Sydney][]
