@@ -73,17 +73,33 @@ DiUS is an Australian consultancy that combines tech, design and innovation to c
 [.hide-footer]
 [.slidenumbers: false]
 
+![left](https://www.dropbox.com/s/7as1jqs2axfmh4c/justin-anderson.jpg?dl=1)
+
+# [fit] **Random**
+# [fit] Generators
+# [fit] for a **RoseTree**
+# [fit] *Justin Anderson*
+# [fit] **`@justosophy`**
+
+^
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
 ![right](https://www.dropbox.com/s/brnu6fnswsrng3n/gareth-stokes.jpeg?dl=1)
 
 # [fit] Exercism:
 # [fit] **Leap**
 # [fit] *Gareth Stokes*
-# [fit] **`@xxxx`**
+# [fit] **`@garrydanger`**
+
+^
 
 ---
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] `@xxx`, `@yyy`
+# [fit] `@justosophy`, `@garrydanger`
 # [fit] **_`@elmsydney`_**
 
 
