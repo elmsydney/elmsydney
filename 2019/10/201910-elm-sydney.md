@@ -16,7 +16,7 @@ Welcome to Elm Sydney.
 ### Talks
 ### News
 ### Tips / Jobs
-### Pub/Hacking/Hanging Out?
+### Pub?
 
 ^
 After the talks, we'll throw it out to the group to cover tips, tricks and jobs opportunities.<br />
