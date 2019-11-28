@@ -7,7 +7,7 @@
 
 ## Presentations
 
-- **Castle of the Winds, a top down turn based RPG written in Elm**
+- **[Castle of the Winds, a top down turn based RPG written in Elm][]**
   - Joseph Ni :: [@mordraxx][] ([#6][])
 
 - **Working towards phantom types. Modelling resources in Elm**
@@ -18,7 +18,7 @@
 - **A little tile editor in Elm (using `Platform.worker`)**
   - Justin Anderson :: [@justosophy][] ([#9][])
 
-- **Exercism: Nucleotide Count** ([Exercism Page][])
+- **[Exercism: Nucleotide Count][]** ([Exercism Page][])
   - Paul Fioravanti :: [@paulfioravanti][] ([#7][])
 
 ### Slide Deck
@@ -26,11 +26,13 @@
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
+[Castle of the Winds, a top down turn based RPG written in Elm]: https://docs.google.com/presentation/d/1R5CfmwkaRvj1JhRmZbqSwsd7UHXpF2NIcbk630uSCik/edit
 [@mordraxx]: https://twitter.com/mordraxx
 [#6]: https://github.com/elmsydney/elmsydney/issues/6
 [#8]: https://github.com/elmsydney/elmsydney/issues/8
 [@justosophy]: https://twitter.com/justosophy
 [#9]: https://github.com/elmsydney/elmsydney/issues/9
+[Exercism: Nucleotide Count]: https://exercism.io/tracks/elm/exercises/nucleotide-count/solutions/d8f3ce089d8f49e684626fd4eafca7c1
 [Exercism Page]: https://exercism.io/tracks/elm/exercises/nucleotide-count
 [@paulfioravanti]: https://twitter.com/paulfioravanti
 [#7]: https://github.com/elmsydney/elmsydney/issues/7
