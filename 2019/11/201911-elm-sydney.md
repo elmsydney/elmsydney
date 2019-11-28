@@ -118,7 +118,7 @@ So if you're new to Elm Sydney can you please put up your hand, don't worry we'r
 ---
 
 # [fit] *Next Meetup's* Exercism
-# [fit] **Nucleotide Count**
+# [fit] **Raindrops**
 
 # [fit] *`exercism download --exercise=raindrops --track=elm`*
 

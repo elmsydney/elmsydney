@@ -15,8 +15,11 @@
 
 ## Lightning Talks
 
+- **A little tile editor in Elm (using `Platform.worker`)**
+  - Justin Anderson :: [@justosophy][] ([#9][])
+
 - **Exercism: Nucleotide Count** ([Exercism Page][])
-  - Venkatesh Pitta ([#7][])
+  - Paul Fioravanti :: [@paulfioravanti][] ([#7][])
 
 ### Slide Deck
 
@@ -26,7 +29,10 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [@mordraxx]: https://twitter.com/mordraxx
 [#6]: https://github.com/elmsydney/elmsydney/issues/6
 [#8]: https://github.com/elmsydney/elmsydney/issues/8
+[@justosophy]: https://twitter.com/justosophy
+[#9]: https://github.com/elmsydney/elmsydney/issues/9
 [Exercism Page]: https://exercism.io/tracks/elm/exercises/nucleotide-count
+[@paulfioravanti]: https://twitter.com/paulfioravanti
 [#7]: https://github.com/elmsydney/elmsydney/issues/7
 [DiUS]: https://dius.com.au/
 [Level 2, 50 York St, Sydney]: https://goo.gl/maps/TAKdeYUjHuejtJwK7
