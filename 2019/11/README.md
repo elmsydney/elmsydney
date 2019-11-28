@@ -10,6 +10,9 @@
 - **Castle of the Winds, a top down turn based RPG written in Elm**
   - Joseph Ni :: [@mordraxx][] ([#6][])
 
+- **Working towards phantom types. Modelling resources in Elm**
+  - David Factor :: ([#8][])
+
 ## Lightning Talks
 
 - **Exercism: Nucleotide Count** ([Exercism Page][])
@@ -22,6 +25,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 
 [@mordraxx]: https://twitter.com/mordraxx
 [#6]: https://github.com/elmsydney/elmsydney/issues/6
+[#8]: https://github.com/elmsydney/elmsydney/issues/8
 [Exercism Page]: https://exercism.io/tracks/elm/exercises/nucleotide-count
 [#7]: https://github.com/elmsydney/elmsydney/issues/7
 [DiUS]: https://dius.com.au/

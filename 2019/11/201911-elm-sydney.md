@@ -75,6 +75,20 @@ DiUS is an Australian consultancy that combines tech, design and innovation to c
 [.hide-footer]
 [.slidenumbers: false]
 
+![left](https://www.dropbox.com/s/8jq69g8z01hjy4d/david-factor.jpeg?dl=1)
+
+# [fit] Working towards
+# [fit] **phantom**
+# [fit] **types**
+# [fit] Modelling resources in **Elm**
+# [fit] *David Factor*
+
+^
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
 ![left](https://www.dropbox.com/s/upf30cquwy2dlhu/venkatesh-pitta.jpeg?dl=1)
 
 # [fit] Exercism:
