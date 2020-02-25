@@ -94,6 +94,7 @@ DiUS is an Australian consultancy that combines tech, design and innovation to c
 # [fit] Exercism:
 # [fit] **Raindrops**
 # [fit] *Robert K. Bell*
+# [fit] **`@incredasterisk`**
 
 ^
 
@@ -102,6 +103,7 @@ DiUS is an Australian consultancy that combines tech, design and innovation to c
 
 # [fit] `@mordraxx`
 # [fit] `@justosophy`
+# [fit] `@incredasterisk`
 # [fit] **_`@elmsydney`_**
 
 
